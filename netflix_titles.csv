@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Red Notice,Rawson Marshall Thurber,Dwayne Johnson,United States,"November 12, 2021",2021,PG-13,118 min,"Action & Adventure","An FBI profiler pursues the world's most wanted art thief."
+s2,TV Show,Stranger Things,The Duffer Brothers,"Winona Ryder, David Harbour",United States,"July 15, 2016",2016,TV-14,4 Seasons,"Sci-Fi & Fantasy","A group of kids uncover supernatural mysteries."
+s3,Movie,Extraction,Sam Hargrave,Chris Hemsworth,United States,"April 24, 2020",2020,R,117 min,"Action & Adventure","A black-market mercenary embarks on a dangerous mission."
+s4,Movie,The Irishman,Martin Scorsese,"Robert De Niro, Al Pacino",United States,"November 27, 2019",2019,R,209 min,"Drama","A mob hitman recalls his past."
+s5,TV Show,Money Heist,Alex Pina,"Úrsula Corberó, Álvaro Morte",Spain,"May 2, 2017",2017,TV-MA,5 Seasons,"Crime TV Shows","A criminal mastermind plans the biggest heist."
+s6,Movie,Bird Box,Susanne Bier,Sandra Bullock,United States,"December 21, 2018",2018,R,124 min,"Thrillers","A mysterious force wipes out the population."
+s7,Movie,The Gray Man,Anthony Russo,"Ryan Gosling, Chris Evans",United States,"July 22, 2022",2022,PG-13,129 min,"Action & Adventure","A CIA operative becomes the target."
+s8,TV Show,Wednesday,Tim Burton,Jenna Ortega,United States,"November 23, 2022",2022,TV-14,1 Season,"Comedy","Wednesday Addams joins Nevermore Academy."
+s9,Movie,The Adam Project,Shawn Levy,Ryan Reynolds,United States,"March 11, 2022",2022,PG-13,106 min,"Sci-Fi & Fantasy","A time-traveling pilot meets his younger self."
+s10,TV Show,Dark,Baran bo Odar,"Louis Hofmann",Germany,"December 1, 2017",2017,TV-MA,3 Seasons,"Sci-Fi & Fantasy","Four families uncover a time-travel conspiracy."
